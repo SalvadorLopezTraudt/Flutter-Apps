@@ -1,20 +1,16 @@
 # Flutter-Apps
 This repository shows my first code learning app 
 
-# Meine Flutter App
+To start the App
 
-Dies ist meine Flutter-App.
-
-Um die App zu starten:
-
-1. Repository klonen:  
+1. Clone repository:  
    `git clone https://github.com/SalvadorLopezTraudt/Flutter-Apps.git`
 
-2. Abhängigkeiten holen:  
+2. Get dependencies:  
    `flutter pub get`
 
-3. App starten:  
+3. Start the app:  
    `flutter run`
 
-Viel Spaß beim Ausprobieren!
+Have fun trying around!
 
